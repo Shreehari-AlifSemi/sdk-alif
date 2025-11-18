@@ -101,8 +101,8 @@ Supported Board Targets as per new hardware model v2 (Zephyr v4.1.0 and onwards)
 - alif_e7_dk/ae722f80f55d5xx/rtss_hp
 - alif_e8_dk/ae822fa0e5597xx0/rtss_he
 - alif_e8_dk/ae822fa0e5597xx0/rtss_hp
-- alif_e1c_dk/ae1c1f4051920hh/rtss_he
-- alif_b1_dk/ab1c1f4m51820hh/rtss_he
+- alif_e1c_dk/ae1c1f4051920hh0/rtss_he
+- alif_b1_dk/ab1c1f4m51820hh0/rtss_he
 
 .. note::
    The ``alif_e7_dk/ae722f80f55d5xx/rtss_he`` and ``alif_e7_dk/ae722f80f55d5xx/rtss_hp`` targets can also be run on
